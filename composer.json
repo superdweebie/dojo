@@ -1,0 +1,24 @@
+{
+    "name": "superdweebie/dojo",
+    "description": "A simple repo that allows dojo to be installed with composer",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "dojo",
+        "composer"
+    ],
+    "homepage": "http://github.com/superdweebie/dojo",
+    "authors": [
+        {
+            "name": "Tim Roediger",
+            "email": "superdweebie@gmail.com"
+        }
+    ],
+    "repositories": [{ "type": "composer", "url": "https://raw.github.com/superdweebie/dojo/master" }],	
+    "require": {
+        "dojo/dojo" : "1.8.0rc1",
+        "dojo/dijit" : "1.8.0rc1",
+        "dojo/dojox" : "1.8.0rc1",
+        "dojo/util" : "1.8.0rc1"
+    }
+}
