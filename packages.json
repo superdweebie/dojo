@@ -54,7 +54,8 @@
                 "version": "dev-master",
                 "source": {
                     "type": "git",
-                    "url": "http://github.com/superdweebie/sijit"
+                    "url": "http://github.com/superdweebie/sijit",
+                    "reference": "6041af3f821e01661bcea347cca041a1269da7c8"
                 },
                 "type": "library"
             }
