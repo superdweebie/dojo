@@ -59,18 +59,6 @@
                 },
                 "type": "library"
             }
-        },
-        "dojo/SdsUtil": {
-            "0.1": {
-                "name": "dojo/SdsUtil",
-                "version": "0.1",
-                "source": {
-                    "type": "git",
-                    "url": "http://github.com/superdweebie/sijitUtil",
-                    "reference": "0.1"
-                },
-                "type": "library"
-            }
         }
     }
 }
