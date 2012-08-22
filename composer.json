@@ -20,7 +20,6 @@
         "dojo/dijit"  : "1.8.0",
         "dojo/dojox"  : "1.8.0",
         "dojo/util"   : "1.8.0",
-        "dojo/Sds"    : "0.1",
-        "dojo/SdsUtil": "0.1"
+        "dojo/Sds"    : "0.1"
     }
 }
