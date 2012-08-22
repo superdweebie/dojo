@@ -16,9 +16,11 @@
     ],
     "repositories": [{ "type": "composer", "url": "https://raw.github.com/superdweebie/dojo/master" }],
     "require": {
-        "dojo/dojo" : "1.8.0",
-        "dojo/dijit" : "1.8.0",
-        "dojo/dojox" : "1.8.0",
-        "dojo/util" : "1.8.0"
+        "dojo/dojo"   : "1.8.0",
+        "dojo/dijit"  : "1.8.0",
+        "dojo/dojox"  : "1.8.0",
+        "dojo/util"   : "1.8.0",
+        "dojo/Sds"    : "0.1",
+        "dojo/SdsUtil": "0.1"
     }
 }
