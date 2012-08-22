@@ -49,13 +49,12 @@
             }
         },
         "dojo/Sds": {
-            "0.1": {
+            "dev-master": {
                 "name": "dojo/Sds",
-                "version": "0.1",
+                "version": "dev-master",
                 "source": {
                     "type": "git",
-                    "url": "http://github.com/superdweebie/sijit",
-                    "reference": "0.1"
+                    "url": "http://github.com/superdweebie/sijit"
                 },
                 "type": "library"
             }
