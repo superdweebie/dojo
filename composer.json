@@ -19,7 +19,6 @@
         "dojo/dojo"   : "1.8.0",
         "dojo/dijit"  : "1.8.0",
         "dojo/dojox"  : "1.8.0",
-        "dojo/util"   : "1.8.0",
-        "dojo/Sds"    : "dev-master"
+        "dojo/util"   : "1.8.0"
     }
 }
