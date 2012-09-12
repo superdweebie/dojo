@@ -55,7 +55,7 @@
                 "source": {
                     "type": "git",
                     "url": "http://github.com/superdweebie/sijit",
-                    "reference": "843756fe3950d26e522b0101e5b57a763a647f82"
+                    "reference": "665919220c17b41f3473c9cc720d9b0ca04f6116"
                 },
                 "type": "library"
             }
