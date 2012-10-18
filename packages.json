@@ -71,6 +71,30 @@
                 },
                 "type": "library"
             }            
-        }
+        },
+        "twitter/bootstrap": {
+            "2.1.1": {
+                "name": "twitter/bootstrap",
+                "version": "2.1.1",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/twitter/bootstrap",
+                    "reference": "v2.1.1"
+                },
+                "type": "library"
+            }            
+        },
+        "fort-awesome/font-awesome": {
+            "2.0.0": {
+                "name": "fort-awesome/font-awesome",
+                "version": "2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/FortAwesome/Font-Awesome",
+                    "reference": "2.0.0"
+                },
+                "type": "library"
+            }            
+        }               
     }
 }
