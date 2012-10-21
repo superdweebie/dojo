@@ -84,6 +84,18 @@
                 "type": "library"
             }            
         },
+        "twitter/bootstrap": {
+            "2.1.0": {
+                "name": "twitter/bootstrap",
+                "version": "2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/twitter/bootstrap",
+                    "reference": "v2.1.0"
+                },
+                "type": "library"
+            }            
+        },        
         "fort-awesome/font-awesome": {
             "2.0.0": {
                 "name": "fort-awesome/font-awesome",
