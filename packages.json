@@ -10,7 +10,17 @@
                     "reference": "1.8.0"
                 },
                 "type": "library"
-            }
+            },
+            "1.8.1": {
+                "name": "dojo/dijit",
+                "version": "1.8.1",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/dojo/dijit",
+                    "reference": "1.8.1"
+                },
+                "type": "library"
+            }            
         },
         "dojo/dojo": {
             "1.8.0": {
@@ -22,7 +32,17 @@
                     "reference": "1.8.0"
                 },
                 "type": "library"
-            }
+            },
+            "1.8.1": {
+                "name": "dojo/dojo",
+                "version": "1.8.1",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/dojo/dojo",
+                    "reference": "1.8.1"
+                },
+                "type": "library"
+            }            
         },
         "dojo/dojox": {
             "1.8.0": {
@@ -34,7 +54,17 @@
                     "reference": "1.8.0"
                 },
                 "type": "library"
-            }
+            },
+            "1.8.1": {
+                "name": "dojo/dojox",
+                "version": "1.8.1",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/dojo/dojox",
+                    "reference": "1.8.1"
+                },
+                "type": "library"
+            }            
         },
         "dojo/util": {
             "1.8.0": {
@@ -46,7 +76,17 @@
                     "reference": "1.8.0"
                 },
                 "type": "library"
-            }
+            },
+            "1.8.1": {
+                "name": "dojo/util",
+                "version": "1.8.1",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/dojo/util",
+                    "reference": "1.8.1"
+                },
+                "type": "library"
+            }            
         },
         "dojo/Sds": {
             "dev-master": {
@@ -82,9 +122,7 @@
                     "reference": "v2.1.1"
                 },
                 "type": "library"
-            }            
-        },
-        "twitter/bootstrap": {
+            },            
             "2.1.0": {
                 "name": "twitter/bootstrap",
                 "version": "2.1.0",
