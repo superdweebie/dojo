@@ -122,7 +122,7 @@
                     "reference": "v2.1.1"
                 },
                 "type": "library"
-            },            
+            },
             "2.1.0": {
                 "name": "twitter/bootstrap",
                 "version": "2.1.0",
@@ -135,7 +135,7 @@
             }            
         },        
         "fort-awesome/font-awesome": {
-            "2.0.0": {
+            "dev-master": {
                 "name": "fort-awesome/font-awesome",
                 "version": "dev-master",
                 "source": {
@@ -144,7 +144,17 @@
                     "reference": "ee55c859d23af4a3d4825610815ed5926c417101"
                 },
                 "type": "library"
-            }            
+            },
+            "2.0.0": {
+                "name": "fort-awesome/font-awesome",
+                "version": "2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/FortAwesome/Font-Awesome",
+                    "reference": "2.0.0"
+                },
+                "type": "library"
+            }
         }               
     }
 }
