@@ -95,7 +95,7 @@
                 "source": {
                     "type": "git",
                     "url": "http://github.com/superdweebie/sijit",
-                    "reference": "4900e4ab374ed2ee89480b5d480934f78deed98d"
+                    "reference": "963a5010e6983429a5b0fa2af35f2cd9bc3b544c"
                 },
                 "type": "library"
             }
