@@ -10,6 +10,16 @@
                     "reference": "1.8.0"
                 },
                 "type": "library"
+            },
+            "1.8.1": {
+                "name": "dojo/dijit",
+                "version": "1.8.1",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/dojo/dijit",
+                    "reference": "1.8.1"
+                },
+                "type": "library"
             }
         },
         "dojo/dojo": {
@@ -20,6 +30,16 @@
                     "type": "git",
                     "url": "http://github.com/dojo/dojo",
                     "reference": "1.8.0"
+                },
+                "type": "library"
+            },
+            "1.8.1": {
+                "name": "dojo/dojo",
+                "version": "1.8.1",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/dojo/dojo",
+                    "reference": "1.8.1"
                 },
                 "type": "library"
             }
@@ -34,6 +54,16 @@
                     "reference": "1.8.0"
                 },
                 "type": "library"
+            },
+            "1.8.1": {
+                "name": "dojo/dojox",
+                "version": "1.8.1",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/dojo/dojox",
+                    "reference": "1.8.1"
+                },
+                "type": "library"
             }
         },
         "dojo/util": {
@@ -46,6 +76,16 @@
                     "reference": "1.8.0"
                 },
                 "type": "library"
+            },
+            "1.8.1": {
+                "name": "dojo/util",
+                "version": "1.8.1",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/dojo/util",
+                    "reference": "1.8.1"
+                },
+                "type": "library"
             }
         },
         "dojo/Sds": {
@@ -55,7 +95,67 @@
                 "source": {
                     "type": "git",
                     "url": "http://github.com/superdweebie/sijit",
-                    "reference": "4f465dcab8dd7e5a05e07d2369be9d0a4507ec3e"
+                    "reference": "963a5010e6983429a5b0fa2af35f2cd9bc3b544c"
+                },
+                "type": "library",
+                "require": {
+                    "dojo/bootstrap"   : "dev-master"
+                },
+                "bin": ["Build/bin/build-dojo"]
+            }
+        },
+        "dojo/bootstrap": {
+            "dev-master": {
+                "name": "dojo/bootstrap",
+                "version": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/xsokev/Dojo-Bootstrap",
+                    "reference": "ba87941683e5266d6ff6d24e0a306f4aaa6c6dd3"
+                },
+                "type": "library"
+            }
+        },
+        "twitter/bootstrap": {
+            "2.1.1": {
+                "name": "twitter/bootstrap",
+                "version": "2.1.1",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/twitter/bootstrap",
+                    "reference": "v2.1.1"
+                },
+                "type": "library"
+            },
+            "2.1.0": {
+                "name": "twitter/bootstrap",
+                "version": "2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/twitter/bootstrap",
+                    "reference": "v2.1.0"
+                },
+                "type": "library"
+            }
+        },
+        "fort-awesome/font-awesome": {
+            "dev-master": {
+                "name": "fort-awesome/font-awesome",
+                "version": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/FortAwesome/Font-Awesome",
+                    "reference": "ee55c859d23af4a3d4825610815ed5926c417101"
+                },
+                "type": "library"
+            },
+            "2.0.0": {
+                "name": "fort-awesome/font-awesome",
+                "version": "2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/FortAwesome/Font-Awesome",
+                    "reference": "2.0.0"
                 },
                 "type": "library"
             }
