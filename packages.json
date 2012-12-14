@@ -95,7 +95,7 @@
                 "source": {
                     "type": "git",
                     "url": "http://github.com/superdweebie/sijit",
-                    "reference": "963a5010e6983429a5b0fa2af35f2cd9bc3b544c"
+                    "reference": "d33f0f2a2217a5f07366320816bb0273bfd370ea"
                 },
                 "type": "library",
                 "require": {
@@ -111,7 +111,7 @@
                 "source": {
                     "type": "git",
                     "url": "http://github.com/xsokev/Dojo-Bootstrap",
-                    "reference": "ba87941683e5266d6ff6d24e0a306f4aaa6c6dd3"
+                    "reference": "b2e9717f7aeaf2ae8e9a872ee739435cf17fdd9e"
                 },
                 "type": "library"
             }
