@@ -125,9 +125,9 @@
                 },
                 "type": "library"
             },
-            "1.8.3.patched": {
+            "dev-master": {
                 "name": "dojo/dojox",
-                "version": "1.8.3.patched",
+                "version": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "http://github.com/superdweebie/dojox",
