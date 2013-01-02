@@ -20,7 +20,27 @@
                     "reference": "1.8.1"
                 },
                 "type": "library"
-            }
+            },
+            "1.8.2": {
+                "name": "dojo/dijit",
+                "version": "1.8.2",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/dojo/dijit",
+                    "reference": "1.8.2"
+                },
+                "type": "library"
+            },
+            "1.8.3": {
+                "name": "dojo/dijit",
+                "version": "1.8.3",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/dojo/dijit",
+                    "reference": "1.8.3"
+                },
+                "type": "library"
+            }                        
         },
         "dojo/dojo": {
             "1.8.0": {
@@ -42,7 +62,27 @@
                     "reference": "1.8.1"
                 },
                 "type": "library"
-            }
+            },
+            "1.8.2": {
+                "name": "dojo/dojo",
+                "version": "1.8.2",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/dojo/dojo",
+                    "reference": "1.8.2"
+                },
+                "type": "library"
+            },
+            "1.8.3": {
+                "name": "dojo/dojo",
+                "version": "1.8.3",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/dojo/dojo",
+                    "reference": "1.8.3"
+                },
+                "type": "library"
+            }                        
         },
         "dojo/dojox": {
             "1.8.0": {
@@ -64,7 +104,37 @@
                     "reference": "1.8.1"
                 },
                 "type": "library"
-            }
+            },
+            "1.8.2": {
+                "name": "dojo/dojox",
+                "version": "1.8.2",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/dojo/dojox",
+                    "reference": "1.8.2"
+                },
+                "type": "library"
+            },
+            "1.8.3": {
+                "name": "dojo/dojox",
+                "version": "1.8.3",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/dojo/dojox",
+                    "reference": "1.8.3"
+                },
+                "type": "library"
+            },
+            "1.8.3.patched": {
+                "name": "dojo/dojox",
+                "version": "1.8.3.patched",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/superdweebie/dojox",
+                    "reference": "2498697669a23f1d6d8278e6fe9547f534c00016"
+                },
+                "type": "library"
+            }             
         },
         "dojo/util": {
             "1.8.0": {
@@ -86,7 +156,27 @@
                     "reference": "1.8.1"
                 },
                 "type": "library"
-            }
+            },
+            "1.8.2": {
+                "name": "dojo/util",
+                "version": "1.8.2",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/dojo/util",
+                    "reference": "1.8.2"
+                },
+                "type": "library"
+            },
+            "1.8.3": {
+                "name": "dojo/util",
+                "version": "1.8.3",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/dojo/util",
+                    "reference": "1.8.3"
+                },
+                "type": "library"
+            }            
         },
         "dojo/Sds": {
             "dev-master": {
@@ -95,7 +185,7 @@
                 "source": {
                     "type": "git",
                     "url": "http://github.com/superdweebie/sijit",
-                    "reference": "d33f0f2a2217a5f07366320816bb0273bfd370ea"
+                    "reference": "89264e6b9734af8b8a3a671ceb170ea6498c1f16"
                 },
                 "type": "library",
                 "require": {
@@ -111,7 +201,7 @@
                 "source": {
                     "type": "git",
                     "url": "http://github.com/xsokev/Dojo-Bootstrap",
-                    "reference": "b2e9717f7aeaf2ae8e9a872ee739435cf17fdd9e"
+                    "reference": "fad92ee4b368cbcf3c52827b4589441cc935e685"
                 },
                 "type": "library"
             }
