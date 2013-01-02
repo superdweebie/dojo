@@ -248,6 +248,16 @@
                     "reference": "2.0.0"
                 },
                 "type": "library"
+            },
+            "3.0.0": {
+                "name": "fort-awesome/font-awesome",
+                "version": "3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/FortAwesome/Font-Awesome",
+                    "reference": "v3.0.0"
+                },
+                "type": "library"
             }
         }
     }
