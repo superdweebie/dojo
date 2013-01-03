@@ -131,7 +131,7 @@
                 "source": {
                     "type": "git",
                     "url": "http://github.com/superdweebie/dojox",
-                    "reference": "2498697669a23f1d6d8278e6fe9547f534c00016"
+                    "reference": "8409e00d040315eb5d216e385e7971eb2d6ba5e5"
                 },
                 "type": "library"
             }             
