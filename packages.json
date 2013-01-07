@@ -185,7 +185,7 @@
                 "source": {
                     "type": "git",
                     "url": "http://github.com/superdweebie/sijit",
-                    "reference": "6836980f077ee5460e3148e4f6c17b029bfe003e"
+                    "reference": "8326ea714ecd6d5985ddbde8518a63e6536f1d57"
                 },
                 "type": "library",
                 "require": {
