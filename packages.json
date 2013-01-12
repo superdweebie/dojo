@@ -201,7 +201,7 @@
                 "source": {
                     "type": "git",
                     "url": "http://github.com/xsokev/Dojo-Bootstrap",
-                    "reference": "fad92ee4b368cbcf3c52827b4589441cc935e685"
+                    "reference": "b0109114cb68e4b8603e272e2da6180e6141de34"
                 },
                 "type": "library"
             }
