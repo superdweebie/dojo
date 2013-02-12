@@ -181,6 +181,21 @@
         "dojo/Sds": {
             "dev-master": {
                 "name": "dojo/Sds",
+                "version": "0.1",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/superdweebie/sijit",
+                    "reference": "0.1"
+                },
+                "type": "library",
+                "require": {
+                    "dojo/bootstrap"   : "v1.0"
+                }
+            }
+        },
+        "dojo/Sds": {
+            "dev-master": {
+                "name": "dojo/Sds",
                 "version": "dev-master",
                 "source": {
                     "type": "git",
@@ -190,10 +205,21 @@
                 "type": "library",
                 "require": {
                     "dojo/bootstrap"   : "dev-master"
-                },
-                "bin": ["Build/bin/build-dojo"]
+                }
             }
-        },
+        },  
+        "dojo/bootstrap": {
+            "dev-master": {
+                "name": "dojo/bootstrap",
+                "version": "v1.0",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/xsokev/Dojo-Bootstrap",
+                    "reference": "v1.0"
+                },
+                "type": "library"
+            }
+        },        
         "dojo/bootstrap": {
             "dev-master": {
                 "name": "dojo/bootstrap",
@@ -201,7 +227,7 @@
                 "source": {
                     "type": "git",
                     "url": "http://github.com/xsokev/Dojo-Bootstrap",
-                    "reference": "b0109114cb68e4b8603e272e2da6180e6141de34"
+                    "reference": "d9da987bd3f1916e8e5322976b937c131b08f13b"
                 },
                 "type": "library"
             }
