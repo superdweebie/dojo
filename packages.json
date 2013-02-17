@@ -179,7 +179,7 @@
             }            
         },
         "dojo/Sds": {
-            "dev-master": {
+            "0.1": {
                 "name": "dojo/Sds",
                 "version": "0.1",
                 "source": {
@@ -189,11 +189,9 @@
                 },
                 "type": "library",
                 "require": {
-                    "dojo/bootstrap"   : "v1.0"
+                    "dojo/bootstrap"   : "dev-master"
                 }
-            }
-        },
-        "dojo/Sds": {
+            },
             "dev-master": {
                 "name": "dojo/Sds",
                 "version": "dev-master",
@@ -209,7 +207,7 @@
             }
         },  
         "dojo/bootstrap": {
-            "dev-master": {
+            "v1.0": {
                 "name": "dojo/bootstrap",
                 "version": "v1.0",
                 "source": {
@@ -218,9 +216,7 @@
                     "reference": "v1.0"
                 },
                 "type": "library"
-            }
-        },        
-        "dojo/bootstrap": {
+            },
             "dev-master": {
                 "name": "dojo/bootstrap",
                 "version": "dev-master",
