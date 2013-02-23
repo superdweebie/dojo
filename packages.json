@@ -124,17 +124,7 @@
                     "reference": "1.8.3"
                 },
                 "type": "library"
-            },
-            "dev-master": {
-                "name": "dojo/dojox",
-                "version": "dev-master",
-                "source": {
-                    "type": "git",
-                    "url": "http://github.com/superdweebie/dojox",
-                    "reference": "8409e00d040315eb5d216e385e7971eb2d6ba5e5"
-                },
-                "type": "library"
-            }             
+            }           
         },
         "dojo/util": {
             "1.8.0": {
@@ -198,7 +188,7 @@
                 "source": {
                     "type": "git",
                     "url": "http://github.com/superdweebie/sijit",
-                    "reference": "7392415d9f59b08b2657e502ffca60d51a98b6a8"
+                    "reference": "dev-master"
                 },
                 "type": "library",
                 "require": {
