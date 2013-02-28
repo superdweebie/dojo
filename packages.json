@@ -188,11 +188,11 @@
                 "source": {
                     "type": "git",
                     "url": "http://github.com/superdweebie/sijit",
-                    "reference": "dev-master"
+                    "reference": "ee0043336931e6be6189bacea8e0c5b8322046d3"
                 },
                 "type": "library",
                 "require": {
-                    "dojo/bootstrap" : "ee0043336931e6be6189bacea8e0c5b8322046d3"
+                    "dojo/bootstrap" : "dev-master"
                 }
             }            
         },  
