@@ -181,19 +181,6 @@
                 "require": {
                     "dojo/bootstrap"   : "v1.2"
                 }
-            },
-            "dev-master": {
-                "name": "dojo/Sds",
-                "version": "dev-master",
-                "source": {
-                    "type": "git",
-                    "url": "http://github.com/superdweebie/sijit",
-                    "reference": "dev-master"
-                },
-                "type": "library",
-                "require": {
-                    "dojo/bootstrap"   : "dev-master"
-                }
             }
         },  
         "dojo/bootstrap": {
