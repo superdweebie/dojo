@@ -201,7 +201,8 @@
                 "source": {
                     "type": "git",
                     "url": "http://github.com/superdweebie/sijit",
-                    "reference": "dev-master"                },
+                    "reference": "dc6da2e4069c2269c475123cec83c07886d26a57"                
+                },
                 "type": "library",
                 "require": {
                     "dojo/bootstrap" : "dev-master"
