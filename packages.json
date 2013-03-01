@@ -215,35 +215,7 @@
                     "composer/installers": "~1.0"
                 }                
             }            
-        },
-        "dojo/bootstrap": {
-            "v1.2": {
-                "name": "dojo/bootstrap",
-                "version": "v1.2",
-                "source": {
-                    "type": "git",
-                    "url": "http://github.com/xsokev/Dojo-Bootstrap",
-                    "reference": "v1.2"
-                },
-                "type": "zend-dojo",
-                "require": {
-                    "composer/installers": "~1.0"
-                }                
-            },            
-            "dev-master": {
-                "name": "dojo/bootstrap",
-                "version": "dev-master",
-                "source": {
-                    "type": "git",
-                    "url": "http://github.com/xsokev/Dojo-Bootstrap",
-                    "reference": "d9da987bd3f1916e8e5322976b937c131b08f13b"
-                },
-                "type": "zend-dojo",
-                "require": {
-                    "composer/installers": "~1.0"
-                }                
-            }
-        },     
+        },   
         "fort-awesome/font-awesome": {
             "dev-master": {
                 "name": "fort-awesome/font-awesome",
