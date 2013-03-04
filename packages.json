@@ -247,6 +247,28 @@
                 },
                 "type": "library"
             }
+        },
+        "cujojs/curl": {
+            "dev-master": {
+                "name": "cujojs/curl",
+                "version": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/cujojs/curl.git",
+                    "reference": "83f445b1ac48402b411176a2ee2a76b2d6b87a65"
+                },
+                "type": "library"
+            },
+            "0.7.3": {
+                "name": "cujojs/curl",
+                "version": "0.7.3",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/cujojs/curl.git",
+                    "reference": "0.7.3"
+                },
+                "type": "library"
+            }
         }
     }
 }
