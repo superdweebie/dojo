@@ -9,7 +9,7 @@
                     "url": "http://github.com/dojo/dijit",
                     "reference": "1.8.0"
                 },
-                "type": "zend-dojo",
+                "type": "zend-extra",
                 "require": {
                     "composer/installers": "~1.0"
                 }  
@@ -22,7 +22,7 @@
                     "url": "http://github.com/dojo/dijit",
                     "reference": "1.8.1"
                 },
-                "type": "zend-dojo",
+                "type": "zend-extra",
                 "require": {
                     "composer/installers": "~1.0"
                 }  
@@ -35,7 +35,7 @@
                     "url": "http://github.com/dojo/dijit",
                     "reference": "1.8.2"
                 },
-                "type": "zend-dojo",
+                "type": "zend-extra",
                 "require": {
                     "composer/installers": "~1.0"
                 }  
@@ -48,7 +48,7 @@
                     "url": "http://github.com/dojo/dijit",
                     "reference": "1.8.3"
                 },
-                "type": "zend-dojo",
+                "type": "zend-extra",
                 "require": {
                     "composer/installers": "~1.0"
                 }  
@@ -63,7 +63,7 @@
                     "url": "http://github.com/dojo/dojo",
                     "reference": "1.8.0"
                 },
-                "type": "zend-dojo",
+                "type": "zend-extra",
                 "require": {
                     "composer/installers": "~1.0"
                 }  
@@ -76,7 +76,7 @@
                     "url": "http://github.com/dojo/dojo",
                     "reference": "1.8.1"
                 },
-                "type": "zend-dojo",
+                "type": "zend-extra",
                 "require": {
                     "composer/installers": "~1.0"
                 }  
@@ -89,7 +89,7 @@
                     "url": "http://github.com/dojo/dojo",
                     "reference": "1.8.2"
                 },
-                "type": "zend-dojo",
+                "type": "zend-extra",
                 "require": {
                     "composer/installers": "~1.0"
                 }  
@@ -102,7 +102,7 @@
                     "url": "http://github.com/dojo/dojo",
                     "reference": "1.8.3"
                 },
-                "type": "zend-dojo",
+                "type": "zend-extra",
                 "require": {
                     "composer/installers": "~1.0"
                 }  
@@ -117,7 +117,7 @@
                     "url": "http://github.com/dojo/dojox",
                     "reference": "1.8.0"
                 },
-                "type": "zend-dojo",
+                "type": "zend-extra",
                 "require": {
                     "composer/installers": "~1.0"
                 }  
@@ -130,7 +130,7 @@
                     "url": "http://github.com/dojo/dojox",
                     "reference": "1.8.1"
                 },
-                "type": "zend-dojo",
+                "type": "zend-extra",
                 "require": {
                     "composer/installers": "~1.0"
                 }  
@@ -143,7 +143,7 @@
                     "url": "http://github.com/dojo/dojox",
                     "reference": "1.8.2"
                 },
-                "type": "zend-dojo",
+                "type": "zend-extra",
                 "require": {
                     "composer/installers": "~1.0"
                 }  
@@ -156,7 +156,7 @@
                     "url": "http://github.com/dojo/dojox",
                     "reference": "1.8.3"
                 },
-                "type": "zend-dojo",
+                "type": "zend-extra",
                 "require": {
                     "composer/installers": "~1.0"
                 }  
@@ -171,7 +171,7 @@
                     "url": "http://github.com/dojo/util",
                     "reference": "1.8.0"
                 },
-                "type": "zend-dojo",
+                "type": "zend-extra",
                 "require": {
                     "composer/installers": "~1.0"
                 }  
@@ -184,7 +184,7 @@
                     "url": "http://github.com/dojo/util",
                     "reference": "1.8.1"
                 },
-                "type": "zend-dojo",
+                "type": "zend-extra",
                 "require": {
                     "composer/installers": "~1.0"
                 }  
@@ -197,7 +197,7 @@
                     "url": "http://github.com/dojo/util",
                     "reference": "1.8.2"
                 },
-                "type": "zend-dojo",
+                "type": "zend-extra",
                 "require": {
                     "composer/installers": "~1.0"
                 }                
@@ -210,7 +210,7 @@
                     "url": "http://github.com/dojo/util",
                     "reference": "1.8.3"
                 },
-                "type": "zend-dojo",
+                "type": "zend-extra",
                 "require": {
                     "composer/installers": "~1.0"
                 }                
