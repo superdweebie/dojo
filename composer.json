@@ -18,7 +18,7 @@
     "require": {
         "dojo/dojo"   : "1.8.3",
         "dojo/dijit"  : "1.8.3",
-        "dojo/dojox"  : "1.8.3",
+        "dojo/dojox"  : "dev-master",
         "dojo/util"   : "1.8.3"
     }
 }
