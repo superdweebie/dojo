@@ -14,7 +14,7 @@
             "email": "superdweebie@gmail.com"
         }
     ],
-    "repositories": [{ "type": "composer", "url": "https://raw.github.com/superdweebie/dojo/master" }],
+    "repositories": [{ "type": "composer", "url": "https://raw.github.com/superdweebie/dojo/DojoxUpdate" }],
     "require": {
         "dojo/dojo"   : "1.8.3",
         "dojo/dijit"  : "1.8.3",
