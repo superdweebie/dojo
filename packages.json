@@ -160,7 +160,20 @@
                 "require": {
                     "composer/installers": "~1.0"
                 }  
-            }           
+            },
+            "dev-master": {
+                "name": "dojo/dojox",
+                "version": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/zoopcommerce/dojox",
+                    "reference": "a7fdfc9c21641d036d491e58845c7d735855c156"
+                },
+                "type": "zend-extra",
+                "require": {
+                    "composer/installers": "~1.0"
+                }  
+            }   
         },
         "dojo/util": {
             "1.8.0": {
