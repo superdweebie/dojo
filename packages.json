@@ -311,9 +311,9 @@
                 }
             }
         },
-        "twitter/bootstrap_customPath": {
+        "twitter/bootstrap-customPath": {
             "2.2.2": {
-                "name": "twitter/bootstrap",
+                "name": "twitter/bootstrap-customPath",
                 "version": "2.2.2",
                 "source": {
                     "type": "git",
@@ -326,7 +326,7 @@
                 }
             },
             "2.1.1": {
-                "name": "twitter/bootstrap",
+                "name": "twitter/bootstrap-customPath",
                 "version": "2.1.1",
                 "source": {
                     "type": "git",
@@ -339,7 +339,7 @@
                 }
             },
             "2.1.0": {
-                "name": "twitter/bootstrap",
+                "name": "twitter/bootstrap-customPath",
                 "version": "2.1.0",
                 "source": {
                     "type": "git",
