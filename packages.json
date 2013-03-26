@@ -312,9 +312,9 @@
             }
         },
         "twitter/bootstrap": {
-            "2.2.2": {
+            "2.2.2-customPath": {
                 "name": "twitter/bootstrap",
-                "version": "2.2.2",
+                "version": "2.2.2-customPath",
                 "source": {
                     "type": "git",
                     "url": "http://github.com/twitter/bootstrap",
@@ -325,9 +325,9 @@
                     "composer/installers": "~1.0"
                 }
             },
-            "2.1.1": {
+            "2.1.1-customPath": {
                 "name": "twitter/bootstrap",
-                "version": "2.1.1",
+                "version": "2.1.1-customPath",
                 "source": {
                     "type": "git",
                     "url": "http://github.com/twitter/bootstrap",
@@ -338,9 +338,9 @@
                     "composer/installers": "~1.0"
                 }
             },
-            "2.1.0": {
+            "2.1.0-customPath": {
                 "name": "twitter/bootstrap",
-                "version": "2.1.0",
+                "version": "2.1.0-customPath",
                 "source": {
                     "type": "git",
                     "url": "http://github.com/twitter/bootstrap",
