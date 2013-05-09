@@ -40,7 +40,17 @@
                     "reference": "1.8.3"
                 },
                 "type": "library"
-            }                        
+            },
+            "1.9.0": {
+                "name": "dojo/dijit",
+                "version": "1.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/dojo/dijit",
+                    "reference": "1.9.0"
+                },
+                "type": "library"
+            }
         },
         "dojo/dojo": {
             "1.8.0": {
@@ -82,7 +92,17 @@
                     "reference": "1.8.3"
                 },
                 "type": "library"
-            }                        
+            },
+            "1.9.0": {
+                "name": "dojo/dojo",
+                "version": "1.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/dojo/dojo",
+                    "reference": "1.9.0"
+                },
+                "type": "library"
+            }
         },
         "dojo/dojox": {
             "1.8.0": {
@@ -125,6 +145,16 @@
                 },
                 "type": "library"
             },
+            "1.9.0": {
+                "name": "dojo/dojox",
+                "version": "1.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/dojo/dojox",
+                    "reference": "1.9.0"
+                },
+                "type": "library"
+            },
             "dev-master": {
                 "name": "dojo/dojox",
                 "version": "dev-master",
@@ -134,7 +164,7 @@
                     "reference": "8409e00d040315eb5d216e385e7971eb2d6ba5e5"
                 },
                 "type": "library"
-            }             
+            }
         },
         "dojo/util": {
             "1.8.0": {
@@ -176,7 +206,7 @@
                     "reference": "1.8.3"
                 },
                 "type": "library"
-            }            
+            }
         },
         "dojo/Sds": {
             "dev-master": {
@@ -207,7 +237,7 @@
                     "dojo/bootstrap"   : "dev-master"
                 }
             }
-        },  
+        },
         "dojo/bootstrap": {
             "dev-master": {
                 "name": "dojo/bootstrap",
@@ -219,7 +249,7 @@
                 },
                 "type": "library"
             }
-        },        
+        },
         "dojo/bootstrap": {
             "dev-master": {
                 "name": "dojo/bootstrap",
@@ -263,7 +293,7 @@
                 },
                 "type": "library"
             }
-        },        
+        },
         "fort-awesome/font-awesome": {
             "dev-master": {
                 "name": "fort-awesome/font-awesome",
