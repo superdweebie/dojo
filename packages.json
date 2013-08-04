@@ -317,7 +317,7 @@
                 "version": "2.3.1",
                 "source": {
                     "type": "git",
-                    "url": "http://github.com/twitter/bootstrap",
+                    "url": "http://github.com/twbs/bootstrap",
                     "reference": "v2.3.1"
                 },
                 "type": "zend-extra",
@@ -330,7 +330,7 @@
                 "version": "2.2.2",
                 "source": {
                     "type": "git",
-                    "url": "http://github.com/twitter/bootstrap",
+                    "url": "http://github.com/twbs/bootstrap",
                     "reference": "v2.2.2"
                 },
                 "type": "zend-extra",
@@ -343,7 +343,7 @@
                 "version": "2.3.1",
                 "source": {
                     "type": "git",
-                    "url": "http://github.com/twitter/bootstrap",
+                    "url": "http://github.com/twbs/bootstrap",
                     "reference": "v2.3.1"
                 },
                 "type": "zend-extra",
@@ -356,7 +356,7 @@
                 "version": "2.1.1",
                 "source": {
                     "type": "git",
-                    "url": "http://github.com/twitter/bootstrap",
+                    "url": "http://github.com/twbs/bootstrap",
                     "reference": "v2.1.1"
                 },
                 "type": "zend-extra",
@@ -369,7 +369,7 @@
                 "version": "2.1.0",
                 "source": {
                     "type": "git",
-                    "url": "http://github.com/twitter/bootstrap",
+                    "url": "http://github.com/twbs/bootstrap",
                     "reference": "v2.1.0"
                 },
                 "type": "zend-extra",
