@@ -52,7 +52,20 @@
                 "require": {
                     "composer/installers": "~1.0"
                 }  
-            }                        
+            },
+            "1.9.1": {
+                "name": "dojo/dijit",
+                "version": "1.9.1",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/dojo/dijit",
+                    "reference": "1.9.1"
+                },
+                "type": "zend-extra",
+                "require": {
+                    "composer/installers": "~1.0"
+                }  
+            }  			
         },
         "dojo/dojo": {
             "1.8.0": {
@@ -106,7 +119,20 @@
                 "require": {
                     "composer/installers": "~1.0"
                 }  
-            }                        
+            },
+			"1.9.1": {
+                "name": "dojo/dojo",
+                "version": "1.9.1",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/dojo/dojo",
+                    "reference": "1.9.1"
+                },
+                "type": "zend-extra",
+                "require": {
+                    "composer/installers": "~1.0"
+                }  
+            }
         },
         "dojo/dojox": {
             "1.8.0": {
@@ -161,6 +187,19 @@
                     "composer/installers": "~1.0"
                 }  
             },
+            "1.9.1": {
+                "name": "dojo/dojox",
+                "version": "1.9.1",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/dojo/dojox",
+                    "reference": "1.9.1"
+                },
+                "type": "zend-extra",
+                "require": {
+                    "composer/installers": "~1.0"
+                }  
+            },			
             "dev-master": {
                 "name": "dojo/dojox",
                 "version": "dev-master",
@@ -227,7 +266,20 @@
                 "require": {
                     "composer/installers": "~1.0"
                 }                
-            }            
+            },
+            "1.9.1": {
+                "name": "dojo/util",
+                "version": "1.9.1",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/dojo/util",
+                    "reference": "1.9.1"
+                },
+                "type": "zend-extra",
+                "require": {
+                    "composer/installers": "~1.0"
+                }                
+            } 			
         },   
         "fort-awesome/font-awesome": {
             "dev-master": {
